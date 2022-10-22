@@ -1,0 +1,1 @@
+In this code, you can perform many Complicated Mathematical Operations, like dealing with Complex Numbers, Differential Equations, Definite and Indefinite Integration, Matrix Manipulations like Adding, Subtracting Multiplying, Inversing and Finding the Determinant, also you can deal with Polynomials, like finding the long division of two polynomials.
